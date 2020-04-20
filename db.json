@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Nike Paul George PG 3",
+      "price": "53800",
+      "tags": "25 Colors",
+      "image": "/images/2.jpg",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "price": "48900",
+      "tags": "16 Color, y",
+      "image": "/images/3.jpg",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "adidas Harden Vol.3",
+      "price": "46000",
+      "tags": "34 Colors",
+      "image": "/images/5.jpg",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "Nike Hyperdunk X(2018)",
+      "price": "54600",
+      "tags": "",
+      "image": "/images/7.jpg",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "Nike KD 12",
+      "price": "81800",
+      "tags": "",
+      "image": "/images/8.jpg",
+      "status": "unavailable"
+    },
+    {
+      "id": 9,
+      "name": "adidas D.O.N. Issue #1",
+      "price": "38800",
+      "tags": "",
+      "image": "/images/9.jpg",
+      "status": "available"
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "48900",
+      "status": "available",
+      "tags": "",
+      "image": "/images/10.jpg",
+      "id": 10
+    },
+    {
+      "name": "Nike Kyrie Flytrap",
+      "price": "34400",
+      "status": "available",
+      "tags": "",
+      "image": "/images/11.jpg",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "name": "Air Jordan 3",
+      "price": "44900",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "status": "unavailable"
+    }
+  ],
+  "carts": [
+    {
+      "productId": 2,
+      "name": "Nike Paul George PG 3",
+      "image": "/images/2.jpg",
+      "price": "53800",
+      "mount": 3,
+      "userId": "fandix0925@gmail.com",
+      "id": 1
+    },
+    {
+      "productId": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "image": "/images/3.jpg",
+      "price": "48900",
+      "mount": 1,
+      "userId": "Hank@123.com",
+      "id": 2
+    }
+  ]
+}
